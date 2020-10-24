@@ -1739,7 +1739,7 @@ asservi
 asservir
 asseyez-vous
 assez
-assez!
+assez
 assiduite
 assieger
 assiette
@@ -4619,7 +4619,7 @@ compare
 comparee
 comparer
 compares
-comparez!
+comparez
 compartiment
 compartiments
 compas
@@ -5945,7 +5945,7 @@ deale
 dealers
 Deauville
 debecle
-deballe!
+deballe
 debander
 debarbouiller
 debarcadere
@@ -9380,7 +9380,7 @@ fete
 feter
 fetes
 feu
-feu!
+feu
 feuillage
 feuille
 feuilles
@@ -20652,7 +20652,7 @@ suffisantes
 suffisants
 suffisent
 suffit
-suffit!
+suffit
 suffixe
 suffocation
 suffoquer
