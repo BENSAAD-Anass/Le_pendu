@@ -45,7 +45,7 @@ word=str(word_selection(wordlist))
 print(word)
 print("Le nombre de lettre dans le mot est : ", len(word))
 counter = 7
-list_word=[]
+list_word=[] 
 
 while counter > 0 :
     x=input("tape a letter : ")
